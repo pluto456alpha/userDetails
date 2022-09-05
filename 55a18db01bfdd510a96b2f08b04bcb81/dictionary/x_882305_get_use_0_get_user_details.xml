@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Get_User_Details" max_length="40" name="x_882305_get_use_0_get_user_details" type="collection">
+        <element label="Email_ID" mandatory="true" max_length="40" name="email_id" type="string"/>
+        <element display="true" label="First_Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last_Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+    </element>
+</database>
