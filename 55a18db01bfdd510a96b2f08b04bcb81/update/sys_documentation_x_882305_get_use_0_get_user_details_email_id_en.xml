@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="email_id" label="Email_ID" language="en" table="x_882305_get_use_0_get_user_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>email_id</element>
+            <help/>
+            <hint/>
+            <label>Email_ID</label>
+            <language>en</language>
+            <name>x_882305_get_use_0_get_user_details</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-05 04:36:36</sys_created_on>
+            <sys_id>23f3c1741bfdd510a96b2f08b04bcbcb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Email_ID</sys_name>
+            <sys_package display_value="Get_User_Details" source="x_882305_get_use_0">55a18db01bfdd510a96b2f08b04bcb81</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Get_User_Details">55a18db01bfdd510a96b2f08b04bcb81</sys_scope>
+            <sys_update_name>sys_documentation_x_882305_get_use_0_get_user_details_email_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-05 04:36:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
